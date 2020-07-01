@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adam Kim PhD?? / Site Title"
+title                    : "Adam Kim PhD / Research"
 title_separator          : "-"
-name                     : &name "Adam Kim PhD"
+name                     : &name "Adam Kim"
 description              : &description "Research Associate at the Cleveland Clinic"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://atomadam2.github.io"
+url                      : https://atomadam2.github.io # the base hostname & protocol for your site e.g. "https://atomadam2.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "atomadam2.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
