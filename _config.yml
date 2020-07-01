@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : 
-  avatar           : "Profile.jgp"
+  name             : "Adam Kim PhD"
+  avatar           : "profile.jpg"
   bio              : "Understanding gene expression in liver disease"
   location         : "Cleveland, OH"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1614iFHJu5aQl/bibliography/public/"
