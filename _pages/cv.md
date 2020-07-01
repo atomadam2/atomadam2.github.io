@@ -11,31 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemical Engineering and Biology, Northwestern University, 2009
+* Ph.D in [Cellular, Molecular, Developmental Biology and Biophysics](https://cmdb.jhu.edu/), Johns Hopkins University, 2015
 
-Work experience
+Postdoctoral Work
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* [Serre Lab](https://www.igs.umaryland.edu/labs/serre)
+  * University of Maryland
+  * <i>P. vivax</i> RNA-seq
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* [Nagy Lab](https://www.lerner.ccf.org/immuno/nagy/)
+  * Cleveland Clinic
+  * Small RNA sequencing and Single-Cell RNA-seq of PBMCS in Alcohol-associated Hepatitis
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +44,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
