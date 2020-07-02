@@ -2,7 +2,7 @@
 title: "RNA-seq of <i>P. vivax</i> isolated directly from patient blood"
 collection: publications
 permalink: /publication/PvRNA
-excerpt: 'RNA-seq of <i>P. vivax</i> from a small volume of blood'
+excerpt: 'RNA-seq of <i>P. vivax</i> from a small volume of blood. This data was collected and analyzed while I was a postdoc with [Dr. David Serre](https://www.igs.umaryland.edu/labs/serre/).'
 date: 2019-01-22
 paperurl: 'https://submit.ncbi.nlm.nih.gov/subs/sra/SUB4929766/overview'
 ---
