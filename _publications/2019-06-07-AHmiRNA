@@ -1,0 +1,18 @@
+---
+title: "miRNAs Involved in M1/M2 Hyperpolarization Are Clustered and Coordinately Expressed in Alcoholic Hepatitis"
+collection: publications
+permalink: /publication/2019-06-07-AHmiRNA
+excerpt: 'Differentially expressed miRNAs are clustered in the genome, originating from host genes'
+date: 2019-06-07
+venue: 'Frontiers in Immunology'
+paperurl: 'https://www.frontiersin.org/articles/10.3389/fimmu.2019.01295/full'
+---
+The innate immune system, including monocytes/macrophages, is critical to the progression of alcoholic liver disease (ALD). In response to chronic ethanol, Kupffer cells, the resident macrophage of livers, and peripheral monocytes become sensitized to bacterial lipopolysaccharides (LPS), express more pro-inflammatory cytokines and exhibit macrophage M1/M2 hyperpolarization. Since miRNAs play an important role in the regulation of M1/M2 polarization, we hypothesized that miRNAs regulating macrophage polarization would be dysregulated after chronic ethanol consumption. miRNA sequencing data from Kupffer cells isolated from rats fed an ethanol diet vs. control diet and qPCR data from PBMCs isolated from alcoholic hepatitis (AH) patients and healthy controls were used to assess the role of miRNAs in macrophage hyperpolarization in ALD. Differential expression analyses revealed 40 misregulated miRNAs in Kupffer cells from the chronic ethanol-fed rats compared to pair-fed controls. Nine of these miRNAs are known to be associated with macrophage polarization and consist of a mixture of M1- and M2-associated miRNAs, indicative of hyperpolarization. Twenty-three of the 40 differentially expressed miRNAs were localized to miRNA clusters throughout the genome. Correlation analyses revealed that miRNAs in three of these clusters were co-regulated and located within antisense non-coding RNAs. Similar to Kupffer cells from ethanol-fed rats, M1 and M2 polarization markers, as well as sensitivity to LPS, were elevated in PBMCs from AH patients compared to healthy controls. These increases were associated with an up-regulation of polarization-associated miRNAs, including miR-125a-5p, a miRNA associated with hyperpolarization. miR-125a-5p is clustered in the genome with other miRNAs inside a host gene, Spaca6, which was also upregulated in PBMCs, as well as isolated monocytes, from AH patients. Finally, correlation analyses revealed co-regulation of human polarization-associated miRNA clusters. While expression of polarization-associated miRNAs in clusters was upregulated in AH compared to healthy controls, co-regulation of the miRNAs within a cluster was independent of disease state. Together, these results reveal that global changes in miRNA regulation are associated with polarization phenotypes in Kupffer cells from rat after chronic ethanol as well as in PBMCs from patients with AH. Importantly, polarization-associated miRNAs were localized to coordinately regulated clusters.
+
+<br/><img src='/images/AHmiRNA.png'>
+
+Using a rat model of chronic ethanol consumption, miRNA were isolated from liver resident macrophages (Kupffer cells). Differential expression analyses found most of the miRNAs were clustered in the genome, and some of the clustered miRNAs had highly correlated expression. Using human PBMCs from AH patients and healthy controls, we find high correlation between clustered miRNAs.
+
+[Download paper here](https://www.frontiersin.org/articles/10.3389/fimmu.2019.01295/full)
+
+Recommended citation: Kim, A. (2019). &quot;Differentially expressed miRNAs are clustered in the genome, originating from host genes&quot; <i>Frontiers in Immunology</i>. 2019;10:1295. doi: 10.3389/fimmu.2019.01295. eCollection 2019. PubMed PMID: 31231396; PubMed Central PMCID: PMC6568035.
