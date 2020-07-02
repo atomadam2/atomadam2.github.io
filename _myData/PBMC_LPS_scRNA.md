@@ -2,7 +2,7 @@
 title: "Single-Cell RNA-sequencing of PBMCs from AH patients"
 collection: myData
 permalink: /myData/PBMC_LPS_scRNA
-excerpt: 'PBMCs were isolated from 4 AH patients and 4 healthy controls. They were <i>ex vivo</i> challenged with 100pg/mL LPS for 24 hours to model endotoxemia experienced during alcohol consumption'
+excerpt: 'PBMCs were isolated from 4 AH patients and 4 healthy controls. They were <i>ex vivo</i> challenged with 100pg/mL LPS for 24 hours to model endotoxemia experienced during alcohol consumption. This data was collected and analyzed while I was a postdoc with [Dr. Laura Nagy](https://www.lerner.ccf.org/immuno/nagy/)'
 date: 2019-07-12
 paperurl: 'https://submit.ncbi.nlm.nih.gov/subs/sra/SUB6663296/overview'
 ---
