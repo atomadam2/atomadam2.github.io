@@ -177,6 +177,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  myData:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -221,6 +224,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _myData
+  - scope:
+      path: ""
+      type: myData
     values:
       layout: single
       author_profile: true
