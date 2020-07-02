@@ -32,6 +32,7 @@ Publications
 Funding
 ======
   K99/R00 award from the NIAAA (K99AA028048) September 2019 - August 2024
+  
   "C-Type Lectins and Immune Surveillance in ALD"
 
 Talks
